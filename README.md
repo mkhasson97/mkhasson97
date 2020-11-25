@@ -4,6 +4,11 @@
 **mkhasson97/mkhasson97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I'm Mohammad from Syria, living in Germany 🇩🇪, I am an enthusiastic iOS Developer and I am passionate about UI Design, and really enjoy learning languages and techniques.
+
+You can follow on https://img.shields.io/twitter/follow/mkhasson97?style=social % https://img.shields.io/instagram/follow/mohammad_alhasson?style=social
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mkhasson97)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

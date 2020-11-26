@@ -4,7 +4,7 @@
 #### iOS Development
 
 
-I'm Mohammad from Syria, living in Germany 🇩🇪, I am an enthusiastic iOS Developer and I am passionate about UI Design, and really enjoy learning languages and technologies.
+I'm Mohammad from Syria, living in Germany 🇩🇪, I am an enthusiastic iOS Developer - IT-Specialist and I am passionate about UI Design, and really enjoy learning languages and technologies.
 
 You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mkhasson97?style=social"> </a>
 
@@ -18,7 +18,7 @@ You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><im
 
 
 ## My iOS Apps: 📱
-#### Loading
+#### Loading...
 
 
 ## Contact: 🌍

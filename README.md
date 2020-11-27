@@ -1,4 +1,4 @@
-![iOS Development](https://github.com/mkhasson97/myAssests/blob/main/Cover.png)
+![iOS Development](https://user-images.githubusercontent.com/24416738/100463945-f661d380-30cc-11eb-9c01-67a4c35cd66c.png)
 
 ### Hi there, I'm Mohammad 
 #### iOS Development

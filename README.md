@@ -12,7 +12,9 @@ You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><im
 ## Skills & Tools: 🤓
 ⚡️ HTML / CSS / Swift / Python / JavaScript / SQL
 
-🛠 Xcode / VSCode / Sketch / iTerm / Kite
+🛠 Xcode / VSCode / Sketch / iTerm / Kite / PyCharm
+
+🎨 Sketch / Figma
 
 - 🔭 I’m currently working on this page. and looking for a job btw. 
 

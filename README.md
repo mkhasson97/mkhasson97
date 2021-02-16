@@ -16,7 +16,7 @@ You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><im
 
 🎨 Sketch / Figma
 
-- 🔭 I’m currently working on this page. and looking for a job btw. 
+- 🔭 I’m currently working as Technical Software Engineer at Synology
 
 
 ## My iOS Apps: 📱

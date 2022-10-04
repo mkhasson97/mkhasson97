@@ -29,11 +29,11 @@ You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><im
 [<img src='https://user-images.githubusercontent.com/24416738/107498974-b28f4e00-6b94-11eb-96d2-4b8bda2df1a2.PNG' alt='AppsWizard' height='60'>](https://apps.apple.com/us/app/appswizard/id1551504475)
 [<img src='https://user-images.githubusercontent.com/24416738/193832033-fb118845-8031-407b-8c2e-eaaa224efdd2.png' alt='iBeta' height='60'>](https://apps.apple.com/us/app/ibetaobserver/id1577859348)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mkhasson97&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mkhasson97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhasson97&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

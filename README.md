@@ -21,7 +21,6 @@ You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><im
 
 
 ## 📱 My iOS Apps:
-#### Working on updates...
 [<img src='https://user-images.githubusercontent.com/24416738/100463513-3f655800-30cc-11eb-9a05-ec52ce633785.png' alt='تلاوة-سعد-الغامدي' height='60'>](https://apps.apple.com/us/app/تلاوة-سعد-الغامدي/id1191128783)
 [<img src='https://user-images.githubusercontent.com/24416738/100463513-3f655800-30cc-11eb-9a05-ec52ce633785.png' alt='تلاوة-ياسر الدوسري' height='60'>](https://apps.apple.com/us/app/تلاوة-ياسر-الدوسري/id1190748280)
 [<img src='https://user-images.githubusercontent.com/24416738/100463513-3f655800-30cc-11eb-9a05-ec52ce633785.png' alt='تلاوة-سعود الشريم' height='60'>](https://apps.apple.com/us/app/تلاوة-سعود-الشريم/id1190171306)

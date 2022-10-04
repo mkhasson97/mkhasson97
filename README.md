@@ -9,12 +9,13 @@ I'm Mohammad from Syria, living in Germany 🇩🇪, I am an enthusiastic iOS De
 You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mkhasson97?style=social"> </a>
 
 
-## Skills & Tools: 🤓
-⚡️ HTML / CSS / Swift / Python / JavaScript / SQL
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mkhasson97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mkhasson97) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mkhasson97) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mkhasson97) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mkhasson97) 
 
-🛠 Xcode / VSCode / Sketch / iTerm / Kite / PyCharm
 
-🎨 Sketch / Figma
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 🔭 I’m currently working as Technical Support Engineer at Synology
 
@@ -29,9 +30,19 @@ You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><im
 [<img src='https://user-images.githubusercontent.com/24416738/107498974-b28f4e00-6b94-11eb-96d2-4b8bda2df1a2.PNG' alt='AppsWizard' height='60'>](https://apps.apple.com/us/app/appswizard/id1551504475)
 [<img src='https://user-images.githubusercontent.com/24416738/137202366-cd7a1770-2fc1-4fe9-ab5d-737e2e129e88.PNG' alt='iBeta' height='60'>](https://apps.apple.com/us/app/ibetaobserver/id1577859348)
 
-## Contact: 🌍
-[mkhasson97.com](https://www.mkhasson97.com 'Mohammad Alhasson')
-[<img src='https://user-images.githubusercontent.com/24416738/100463754-a1be5880-30cc-11eb-86e6-e70d1b47469e.png' alt='github' height='40'>](https://github.com/mkhasson97) [<img src='https://user-images.githubusercontent.com/24416738/100463761-a551df80-30cc-11eb-9adc-2378fba12ac2.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mohammad-alhasson/)  [<img src='https://user-images.githubusercontent.com/24416738/100463750-9f5bfe80-30cc-11eb-8c90-afa0bfd40167.png' alt='instagram' height='40'>](https://www.instagram.com/mohammad_alhasson/)  [<img src='https://user-images.githubusercontent.com/24416738/100463757-a3881c00-30cc-11eb-9c99-563d2202178e.png' alt='twitter' height='40'>](https://twitter.com/mkhasson97)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mkhasson97&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mkhasson97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhasson97&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mkhasson97&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Alhasson) 
 
 ## Current Github's status: 👨🏻‍💻
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mkhasson97)

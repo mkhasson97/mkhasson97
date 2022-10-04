@@ -14,13 +14,13 @@ You can follow me on Twitter ☺️ <a href="https://twitter.com/mkhasson97"><im
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 🔭 I’m currently working as Technical Support Engineer at Synology
 
 
-## My iOS Apps: 📱
+## 📱 My iOS Apps:
 #### Working on updates...
 [<img src='https://user-images.githubusercontent.com/24416738/100463513-3f655800-30cc-11eb-9a05-ec52ce633785.png' alt='تلاوة-سعد-الغامدي' height='60'>](https://apps.apple.com/us/app/تلاوة-سعد-الغامدي/id1191128783)
 [<img src='https://user-images.githubusercontent.com/24416738/100463513-3f655800-30cc-11eb-9a05-ec52ce633785.png' alt='تلاوة-ياسر الدوسري' height='60'>](https://apps.apple.com/us/app/تلاوة-ياسر-الدوسري/id1190748280)
